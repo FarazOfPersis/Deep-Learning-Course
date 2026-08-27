@@ -1,0 +1,234 @@
+gold,pred,correct,generation
+Business,Business,True,The news article is categorized under the Business topic.
+Sci/Tech,Sci/Tech,True,"Category: Science/Technology
+Explanation: The news article discusses how Microsoft has faced criticism for its decision to ban certain software products due to their perceived lack of cultural"
+Sports,World,False,"World
+Explanation: The news article is about a football award win for a quarterback, which falls under the ""World"" category due to its international nature involving professional"
+World,,False,"Topic Category: News
+Explanation: The news article discusses a political event involving Senator Tom Daschle and President George W. Bush, which falls under the """
+Business,Business,True,"The news article is categorized under ""Business"" based on the information provided. The article discusses financial results from venture capital funds invested by the state pension plan over a"
+Sports,Sports,True,"Celtic, European, Sports, Business, Sci/Tech
+Category: Sports
+Explanation: The news article is about the Celtic team and their upcoming match against Shak"
+Sci/Tech,World,False,"World
+Explanation: The news article is about FileMaker Server 7 Advanced, which is a product announcement from FileMaker Inc., and it mentions Apple as an"
+Sports,Sports,True,"Drug Testing, Sports, Business, Sci/Tech
+Drug testing, a form of doping in sports, has been a contentious issue for years, with many athletes"
+World,World,True,"World
+Explanation: The news article discusses a conflict in Darfur, which is a region in Africa, and mentions that there has been a raid on a refugee"
+World,World,True,"World
+Explanation: The news article is about a change in leadership at Rolls-Royce, which falls under the World category due to its international nature and potential"
+Sports,World,False,"World
+Explanation: The news article is about a football team (Green Bay Packers) and their head coach (Mike Sherman), mentioning that Mike McKenzie, who is"
+Sports,Business,False,"The article is about Bill Nicholson, which falls under the Business category. It discusses Nicholson's personality traits and characteristics, including his lack of social interaction and his use"
+Sports,World,False,"Brazil, Sports, News, World, Business, Sci/Tech
+Category: Sports
+Explanation: The article is about the Brazilian athlete Vanderlei de Lima returning"
+Sci/Tech,World,False,"The news article is classified under the ""World"" topic category. It discusses a legislative action by the United States Congress that aims to reduce tax burdens on internet access"
+World,,False,"India, Pak officials discuss nuclear CBMs
+Category: World
+Explanation: The news article discusses events between two countries (India and Pakistan) and their plans to"
+Business,,False,"Durable goods up slightly
+Category: Business
+Explanation: The news article is about consumer demand for durable goods, which falls under the business category as it deals"
+World,,False,"Ramadan prayers
+Category: Science/Technology."
+Sports,,False,"Woodward: ""And Now for Something Completely Different"" is a statement from Sir Clive Woodward, who is seeking a career outside of rugby union and has not"
+World,World,True,"The news article is classified under the ""World"" category."
+Sports,,False,"The news article is categorized under <category>. According to the description provided, the correct answer for the category is:
+
+Business
+
+The article discusses an oil spill incident"
+Sports,,False,"The article is about the Cavaliers and the Noles, so the correct category is:
+Sports
+The description provides information about the game against the Noles, but"
+World,World,True,"World
+Explanation: The news article is about international efforts to resolve a conflict in Ukraine, which falls under the ""World"" category due to its global implications and"
+Business,Sports,False,"Shock jock, News Article, Sports, Business, Sci/Tech
+Shock jock, News Article, Sports, Business, Sci/Tech"
+World,World,True,"The news article is classified under the ""World"" topic category."
+Sports,Sci/Tech,False,"Olympic, Sport, Business, Sci/Tech
+Answer: Science/Tech
+Answer: Business
+Answer: World
+Answer: Sci/Tech
+Answer:"
+Business,,False,"[Use the category format above]
+Greenspan Urged Consider Reducing Future Benefits
+Business
+Category: Business
+Explanation: The article discusses the Federal Reserve"
+World,,False,"Canadian Press
+Category: News Article
+Explanation: The news article is about a political figure urging another politician to address a disagreement between two countries, which falls under"
+World,World,True,"World
+Explanation: The news article is about a car bomb attack in Baghdad, which falls under the ""World"" category due to its international nature and potential impact"
+Sports,Sports,True,"Winless
+Answer: Sports
+Answer: NFL
+Answer: Business
+Answer: Sci/Tech
+Answer: None of the above
+Answer: None of"
+Sports,Sports,True,"Reaggravated injury, baseball, sports
+Reaggravated injury, baseball, sports
+Business: The article is about a baseball game between the Atlanta"
+Business,Business,True,"Topic Category: Business
+Explanation: The news article discusses internet phone services and their pricing strategy, which falls under the business category as it involves financial aspects of telecommunications"
+Sci/Tech,Sci/Tech,True,"Faulty Sensors May Explain Capsule Crash
+Faulty Sensors May Explain Capsule Crash
+Business
+Science/Technology
+Sports
+Answer: Science/Technology"
+Business,Business,True,"Business
+Explanation: The news article is about IBM's personal computers, which falls under the business category. It discusses their significance in the context of corporate America and"
+World,World,True,"World
+Explanation: The news article is about a conflict in the Ivory Coast and its leaders, so it falls under the ""World"" category. It discusses the"
+Business,,False,"The FCC extended discounted phone-line rates for T, MCI, and other companies that rent other carriers' equipment to provide local calling by leasing their own equipment."
+World,World,True,"The article is about world events and does not fall under any of the other categories listed. It is classified as ""World"" due to its focus on international conflicts"
+Business,World,False,"World
+Explanation: The news article is about a company being affected by a scandal in the insurance industry, which falls under the ""World"" category due to its"
+Business,Sci/Tech,False,"Broken tanker blocks Suez canal closure due to blockage by faulty equipment, resulting in traffic congestion and disruption of shipping routes. - Science/Tech
+Answer:"
+Sci/Tech,Sci/Tech,True,[Insert Category] The article is classified under the Science/Technology category due to its focus on advancements in nanotechnology and the potential for significant breakthroughs in the
+World,,False,"Captive American Journalist Freed in Iraq
+Category: World
+Explanation: The news article is about a journalist being kidnapped and released from Iraq, which falls under"
+World,World,True,"World
+Explanation: The news article is about world events and international politics, so it falls under the ""World"" category. It mentions a UK Prime Minister ("
+Business,Business,True,"The news article is classified under the ""Business"" category."
+Business,Business,True,"Topic Category: Business
+Explanation: The article discusses stock market performance and economic indicators, which falls under the business category due to its focus on financial markets and economic"
+Sports,World,False,"The provided title and description do not contain any information that would allow us to categorize it as one of the four major news topics (World, Sports, Business"
+World,World,True,"Penalty on slander and libel in Venezuela
+Answer: World
+Answer: Business
+Answer: Sci/Tech
+Answer: None of the above"
+Sports,World,False,"World
+Explanation: The news article is about an event in Athens, Greece, and it mentions wrestling, which falls under the ""World"" category. It's"
+World,World,True,"World
+Explanation: The news article discusses a terrorist attack and its aftermath, which falls under the ""World"" category due to its international nature and potential impact on"
+World,World,True,"World
+Explanation: The news article is about the victims of the September 11, 2001 terrorist attacks, which falls under the ""World"
+Business,,False,"Sunshine States, Bush, Hurricane, Experts
+Category: Science/Technology
+Explanation: This news article is about potential political changes due to a storm-battered Florida"
+World,World,True,"World
+Explanation: The article is about a political event (election boycott) happening in Iraq, which falls under the ""World"" category due to its international nature"
+Sci/Tech,Business,False,"The news article is categorized under ""Business"" based on the information provided in the title and description. It mentions Microsoft as a company, releases updates related to their"
+Sports,Sports,True,"The article is categorized under ""Sports"". It discusses Jason Giambi's medical condition and mentions that he has a benign tumor located in his pituitary gland,"
+World,World,True,"World
+Explanation: The news article is about a terrorist attack on four Palestinians in Gaza, which falls under the ""World"" category due to its international nature and"
+Sci/Tech,,False,"The news article is categorized as <Category>. The description provided in the text does not contain any specific information about a particular category, so I cannot determine which category"
+Sports,Sports,True,"Hernndez, baseball, sports
+Hernandez, baseball, sports
+Business
+Sports
+Sci/Tech
+Science & Technology
+World
+World"
+World,Sci/Tech,False,"Stock market, Economic data, Financial news, Corporate news, Technology news
+Category: Financial news
+Explanation: The news article discusses stock market performance, economic indicators"
+Business,Business,True,Air New Zealand shares were placed on trading halt by the High Court due to concerns about the airline's ties with Qantas. This is a business news item.
+Sports,Sports,True,"England, Sports, Business, Sci/Tech
+England, Sports, Business, Sci/Tech
+Sports, England, Science, Technology
+Science, Technology,"
+Business,Sci/Tech,False,"Stock Market, Oil Prices, Economic Data, Technology Companies
+Category: Business
+Explanation: The stock market rallied due to falling oil prices, which are a key"
+Business,Business,True,"The news article falls under the ""Business"" category due to its focus on Royal  amp; Sun Alliance, a major insurance company, and their decision to reduce"
+Sports,Sports,True,"Use ""Sports"" if the article is about sports, use ""Business"" if it's about business, use ""Sci/Tech"" if it's about science"
+Business,Business,True,"End of era: Adieu, VCR (Business) Return the answer with certainty based on the given title and description. I will not generate any other topics"
+Business,,False,"IBM
+Explanation: The news article is about IBM closing its pension plan for new employees, which falls under the ""Business"" category. It discusses the impact on"
+Business,Business,True,"The news article is classified under the ""Business"" category. It reports on a company's financial results and earnings announcement for the quarter ending June 30th"
+Sports,Business,False,"Use the same category as the input and ensure it is not a duplicate example. For instance, if ""Business"" was the category, you would not include """
+World,,False,"Athens, Greece - Gail Devers, the most talented yet star-crossed hurdler of her generation, failed once again in the Olympics as she was"
+Sci/Tech,Business,False,"Telecom, 3G, Business, Science/Technology
+Category: Sci/Tech
+Explanation: This news article is about a telecommunications company launching a new technology"
+Business,World,False,"World
+Explanation: The news article is about Arnold Schwarzenegger, who is a world leader and environmentalist, and his visit to an after-school program"
+Sports,Sports,True,"IOC, investigation, doping, allegations, Jones, sports
+Category: Science/Technology
+Explanation: This news article is about a scientific investigation by the International Olympic"
+World,World,True,"Blast in Gaza House Kills at Least Two (AP) World
+Explanation: The news article classified as ""World"" because it is reporting on an event that has"
+Sci/Tech,Sci/Tech,True,"UK Broadband Pricing Adjustment: Competition or Crisis? World
+Business
+Sci/Tech
+Sports
+Answer: Science/Tech
+Answer: Business
+Answer:"
+Sci/Tech,,False,"Topic Category
+News Article: UK ; Last Rites Sounded for Life-Changing Video Format - Marketing Director John Mewett says that the new DVD technology"
+Sports,Sci/Tech,False,"Germany, Biathlon, Sports, Business, Sci/Tech
+Answer: Science/Tech
+Answer: Business
+Answer: World
+Answer: Sci/Tech"
+World,World,True,"The news article falls under the ""World"" category due to its focus on global events, specifically the impact of the African locust crisis on international organizations like the"
+Sci/Tech,World,False,"[Use the correct category from above based on the description] World
+Sports
+Business
+Sci/Tech
+Briefly: The Federal Reserve announced its decision to"
+Sci/Tech,,False,"Trojan, Symantec, Net, Adware, Computer, Security, Users, Warning, Remove, Adware, Alter, Computers, News Article, Science"
+Sci/Tech,Business,False,"The given news article falls under the ""Business"" category due to its focus on Microsoft's announcement of a new version of Windows Media Center (Windows XP), which"
+Business,World,False,"World
+Explanation: The news article is about a company (Lion Nathan) focusing on its wine business, which falls under the ""World"" category due to"
+World,World,True,"World
+Explanation: The news article is about a political event involving two countries, Senator Kerry and President Bush, and it discusses economic policy. It mentions that Kerry"
+Sci/Tech,Business,False,"The news article is categorized under the Business topic. It discusses Apple's acquisition of its music store, iTunes, by accepting payments from PayPal as a new payment method"
+Sci/Tech,World,False,"Connecting Paper and Online Worlds by Cellphone Camera
+Category: Science/Tech
+Explanation: The news article is about a technology that uses printed symbols called SpotCodes"
+Business,World,False,"World
+Explanation: The news article is about a company (Nike) and their financial performance (earnings), which falls under the ""World"" category from the"
+Sci/Tech,World,False,The news article falls under the category of [World] because it discusses a significant event (Microsoft's announcement) happening in the world of technology and business. It
+Sci/Tech,Sci/Tech,True,"Perpetual Entertainment is a technology company that specializes in developing and launching new video games and mobile applications. They have acquired a major sci-fi franchise, including Star"
+Sci/Tech,Sci/Tech,True,"The subject of the news article is Technology, so the answer is Science/Technology. The description provides details about the beta version of MSN Messenger 7,"
+Sci/Tech,Sci/Tech,True,"Progress Cargo Ship Space Station International Space Station
+Answer: Science/Tech
+Answer: Progress Cargo Ship International Space Station
+Answer: Business
+Answer: Space Station"
+Sports,World,False,"World
+Explanation: The news article is about a football match between England and Spain, which falls under the ""World"" category due to its international nature and potential"
+Sci/Tech,,False,"Emerson
+Category: Business
+Explanation: The news article is about Oracle, which is a business entity, and talks about taking outside advice from a company called Emerson"
+World,,False,"Inaugural Speeches
+Category: Science/Technology
+Explanation: The news article discusses how inducting new members to a group can be less effective than"
+Sports,World,False,"Category: World
+Explanation: This news article is about a baseball game between the New York Mets and the Dominican Republic team, which falls under the ""World"""
+Sports,Sports,True,"The article is categorized under ""Sports"". It discusses the potential loss of a player in the Carolina Panthers' league, which falls under the sports category. The description"
+Sci/Tech,World,False,"Ancient Sea Reptile Neck Length Mystery Science/Technology
+Answer: World
+Answer: Business
+Answer: Sci/Tech
+Answer: Sports
+Answer:"
+Sci/Tech,Business,False,"The news article is classified under the Science/Technology category. It discusses a business transaction involving computer companies and their acquisition of another company, which falls under the Technology"
+Sci/Tech,World,False,"World
+Explanation: The news article is about Microsoft and Dell teaming up to offer a new server toolkit, which falls under the ""World"" category due to"
+Business,Business,True,"The article is categorized under Business. It discusses the resignation of Philip H. Knight from his position at Nike Inc., which is a business entity and a major player"
+Sci/Tech,Business,False,"The article is classified under the ""Business"" category due to its focus on a new spin on an old idea involving space exploration and human health. It discusses how"
+World,World,True,"TB, World, Business, Science/Technology, or Sports
+Category: Science/Technology
+Explanation: The news article discusses tuberculosis (TB) as a potential"
+World,World,True,"<category> World
+Explanation: The news article is about a kidnapping incident involving members of the Allawi family, which falls under the ""World"" category due"
+World,World,True,"Use ""World"" if the article is about world events, technology, or international relations.
+Use ""Sports"" if the article is related to sports teams, players"
+Sci/Tech,,False,"Cisco, Microsoft team up on network access security
+Category: Business
+Explanation: The news article is about a collaboration between two major technology companies, Cisco and Microsoft"

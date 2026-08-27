@@ -1,0 +1,4 @@
+dataset,Base model
+GSM8K,0.28
+CommonsenseQA,0.42
+AGNews,0.48

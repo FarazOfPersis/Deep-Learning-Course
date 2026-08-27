@@ -1,0 +1,4 @@
+rank,adapter,commonsenseqa_val_exact_match
+4,commonsenseqa_lora_r4,0.63
+16,commonsenseqa_lora_r16,0.61
+64,commonsenseqa_lora_r64,0.49
